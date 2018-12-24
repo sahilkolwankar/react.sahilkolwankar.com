@@ -30,7 +30,7 @@ var templateTwo = React.createElement(
     React.createElement(
         'p',
         null,
-        'Location: New York'
+        'Location: Binghamton, New York'
     )
 );
 

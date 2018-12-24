@@ -14,7 +14,7 @@ var templateTwo = (
     <div>
         <h1>Sahil Vinayak Kolwankar</h1>
         <p>Age: 24</p>
-        <p>Location: New York</p>
+        <p>Location: Binghamton, New York</p>
     </div>
 );
 
